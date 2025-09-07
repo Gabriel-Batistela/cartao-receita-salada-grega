@@ -1,4 +1,5 @@
 Cartão de Receita 🍽️
+
 Este projeto é uma demonstração de como criar um cartão de receita moderno e elegante 👨‍🍳 utilizando HTML e CSS. Ideal para quem quer aprender a construir layouts limpos e responsivos. O design foi pensado para ser visualmente atraente e fácil de usar. ✨
 
 Destaques do Projeto 🌟
